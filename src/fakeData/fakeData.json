@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz", 
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "cost": 445,
+      "img": "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "cost": 45,
+      "img": "https://images.unsplash.com/photo-1522199899308-2eef382e2158?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "cost": 50,
+      "img": "https://images.unsplash.com/photo-1591467554401-1ec5c94dec4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTh8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "cost": 320,
+      "img": "https://images.unsplash.com/photo-1617870952348-7524edfb61b7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTM0fHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "cost": 220,
+      "img": "https://images.unsplash.com/photo-1620894169431-a2231552593d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ5fHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "cost": 40,
+      "img": "https://images.unsplash.com/photo-1590400489131-0fe253998e36?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTczfHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "cost": 410,
+      "img": "https://images.unsplash.com/photo-1556636530-6b7482d80e3d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTk3fHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "cost": 70,
+      "img": "https://images.unsplash.com/photo-1496345962527-29757c3a3d94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjQ2fHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "cost": 90,
+      "img": "https://images.unsplash.com/photo-1622589971252-88e154474ae9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjczfHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "cost": 110,
+      "img": "https://images.unsplash.com/photo-1609751352001-25b60439239c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 11,
+        "name": "jack",
+        "username": "monta",
+        "email": "kack.gotg@com.ixd",
+        "phone": "85768-475-475",
+        "website": "ambrose.net",
+        "cost": 60,
+        "img": "https://images.unsplash.com/photo-1521175776577-f8e0c1e5ecb7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 12,
+        "name": "virat kholi",
+        "username": "Dogs",
+        "email": "virat.sorig@ghid.bit",
+        "phone": "578-079-0485",
+        "website": "ambrose.net",
+        "cost": 900,
+        "img": "https://images.unsplash.com/photo-1592826832050-7c586f9457ce?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYyfHxvbmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 13,
+        "name": "rohit sharma",
+        "username": "goditt",
+        "email": "gloe.oeru@lghos.ghd",
+        "phone": "8847-04-634",
+        "website": "ambrose.net",
+        "cost": 240,
+        "img": "https://images.unsplash.com/photo-1616587226960-4a03badbe8bf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 14,
+        "name": "sangakara",
+        "username": "sanga",
+        "email": "sang.shi@jghs.kgi",
+        "phone": "8374-0844-934",
+        "website": "ambrose.net",
+        "cost": 800,
+        "img": "https://images.unsplash.com/photo-1531547255897-f400dc1b7de2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzB8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      },
+      {
+        "id": 15,
+        "name": "ab de village",
+        "username": "threesisty degree",
+        "email": "irtr.tury@jfh.kgf",
+        "phone": "5765-574-967",
+        "website": "ambrose.net",
+        "cost": 119,
+        "img": "https://images.unsplash.com/photo-1600675063834-ed9f440ab0d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fG9ubGluZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+      }
+  ]

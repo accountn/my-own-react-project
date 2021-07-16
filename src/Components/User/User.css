@@ -1,0 +1,12 @@
+.userDesign{
+    display: flex;
+}
+.product-container{
+    width: 50%;
+    border-right: 1px solid gray;
+}
+.photo{
+    margin-right: 50px;
+    
+    
+}

@@ -1,0 +1,26 @@
+.img2-container{
+    overflow:hidden;
+    height: 200px;
+    width: 200px;
+}
+.img2-container, img{
+    width: 100%;
+}
+.main-container{
+    margin-left: 50px;
+}
+
+.main-container{
+    padding-bottom: 30px;
+    margin-left: 50px;
+    width: 200px;
+    overflow: hidden;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 15px -10px;
+}
+.hname{
+    color: crimson;
+}
+.pname{
+    color: cyan;
+}
